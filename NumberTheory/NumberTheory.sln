@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTheory", "NumberTheory\NumberTheory.csproj", "{2198AB76-5CE2-43E5-81C4-C9C4855DCA48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleDES", "TripleDES\TripleDES.csproj", "{33897959-30A8-49D5-843F-A60AB10D3361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2198AB76-5CE2-43E5-81C4-C9C4855DCA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2198AB76-5CE2-43E5-81C4-C9C4855DCA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2198AB76-5CE2-43E5-81C4-C9C4855DCA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2198AB76-5CE2-43E5-81C4-C9C4855DCA48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33897959-30A8-49D5-843F-A60AB10D3361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33897959-30A8-49D5-843F-A60AB10D3361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33897959-30A8-49D5-843F-A60AB10D3361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33897959-30A8-49D5-843F-A60AB10D3361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB17260A-12FA-42C6-AF59-F270C40D21E0}
+	EndGlobalSection
+EndGlobal

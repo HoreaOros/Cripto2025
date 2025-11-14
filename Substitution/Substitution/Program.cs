@@ -12,4 +12,8 @@ c.Encrypt();
 Console.WriteLine(c.CipherText);
 
 
+MonoAlphabeticCipher mc = new MonoAlphabeticCipher();
 
+mc.PlaintText = "ABC";
+mc.Encrypt();
+Console.WriteLine(mc.CipherText);
